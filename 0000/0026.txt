@@ -1,7 +1,7 @@
-ともだちコードを　いれてください
-トレインナンバーを\xfffeいれてください（０１－\xf000ȁ\x0001\x0000）
-ランクを　いれてください（０１－\xf000ȁ\x0001\x0000）
-けす
-おわり
-そのトレインナンバーは　ありません\xfffe\xf000ȁ\x0001\x0000までの　すうじを　いれてください
-そのランクは　ありません\xfffe\xf000ȁ\x0001\x0000までの　すうじを　いれてください
+Please put the friend code.
+ \ Xfffe please insert train number (01- \ xf000ȁ \ x0001 \ x0000) /Please insert train number 
+Please insert ranking
+It erases it.
+End
+There is no the train number, \ xfffe \ xf000ȁ \ x0001 \ please insert the maggot which does to x0000 
+As for the ranking until it is not, please insert the maggot which is done 
