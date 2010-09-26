@@ -1,18 +1,17 @@
-ハイリンク
-ライブ\xfffe　　キャスター
-ユニオンルーム
-\xf000ȁ\x0001\x0000にん
-ワイヤレスはいしん
-あり
-なし
-はい
-いいえ
-もどる
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-セーブしています\xfffeしばらく　おまちください
-Ｃギア　キャッチ
-あり
-なし
-ハイリンク\xfffe　コネクト…
-ハイリンク\xfffe　ゲスト：\xf000Ȁ\x0001\x0000
-ハイリンク\xfffe　ミッション
+High link 
+Live caster 
+Union room 
+It is in x0000
+As for the wireless it is, the grommet
+It is
+None
+Yes. 
+No. 
+It returns. 
+Are here and the anther written in the Pokemon report?
+Please wait for a while the file is saving. 
+C gear obtaining
+It is.
+None
+High link connection etc.
+High link guest
